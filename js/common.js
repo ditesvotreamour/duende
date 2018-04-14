@@ -25,7 +25,7 @@ $(function () {
                 function () {
                     var $this = $("header .navbar .logo .slogan"); // caching $(this)
                     $this.data('initialText', $this.text());
-                    $this.html('<i class="fa fa-angle-left" aria-hidden="true"></i> Click to return home page');
+                    $this.html('<i class="fa fa-angle-left" aria-hidden="true"></i> Klik untuk kembali ke beranda');
                 },
                 function () {
                     var $this = $("header .navbar .logo .slogan"); // caching $(this)
